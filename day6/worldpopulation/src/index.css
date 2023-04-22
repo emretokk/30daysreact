@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+}
+h2 {
+  font-weight: 100;
+  font-size: 28px;
+}
+p {
+  font-size: 12px;
+}
+.country-container {
+  text-align: left;
+}
+.country-name {
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 100px;
+  width: 300px;
+}
+.bar-container {
+  display: inline-block;
+  width: 500px;
+}
+.bar {
+  display: inline-block;
+  background-color: orange;
+  height: 20px;
+}
+.population {
+  display: inline-block;
+  font-size: 22px;
+  margin-left: 3px;
+}
